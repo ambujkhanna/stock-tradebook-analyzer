@@ -10,7 +10,7 @@
 ## Current status
 
 **Current stage:** Stage 0 — Documentation and baseline  
-**Overall status:** Documentation is being consolidated; application implementation has not yet been changed in this workstream.  
+**Overall status:** Project log, implementation plan, progress tracker, and expanded README are committed on the documentation branch. Application implementation has not yet been changed in this workstream.  
 **Last verified action:** README was expanded on `docs/comprehensive-project-readme`, and the update was verified by reading it back from GitHub. Pull request #1 is open and not merged.  
 **Application code changed in this stage:** No.
 
@@ -25,7 +25,7 @@
 
 ## In progress
 
-- [ ] Add the consolidated project log, `plan.md`, and this `progress.md` to the repository.
+- [x] Add the consolidated project log, `plan.md`, and `progress.md` to the repository and verify all three by reading them back from GitHub.
 - [ ] Recheck current source and branch state before making code changes.
 
 ## Not yet implemented / left to do
@@ -61,7 +61,7 @@ These decisions should be resolved at the stage where they become necessary; the
 | Date | Stage | Outcome | Verification |
 |---|---|---|---|
 | 2026-10-29 | README documentation | Expanded README committed to `docs/comprehensive-project-readme`; PR #1 opened | Fetched README from GitHub and confirmed the updated content and blob SHA |
-| 2026-10-29 | Project log / plan / progress | Being added to the same documentation branch | Record commit hashes and read-back verification after writes complete |
+| 2026-10-29 | Project log / plan / progress | Added `docs/PROJECT_LOG.md`, `plan.md`, and `progress.md` to the documentation branch | All three files were fetched back from GitHub and their content/length checked; file commits: `380b1f72b4f2b06a729262748a9f444bde86df45`, `43d6ac0ff11a6c726383f975a057e1535cc80da6`, `48cb2f3d9fe2324629815cf14085f9f521339eae` |
 
 ## Update template for each future stage
 
